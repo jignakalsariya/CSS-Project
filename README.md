@@ -45,6 +45,7 @@ The emphasis is on:
 
 ## Project Structure
 
+```
 spotify-web-player-ui/
 │
 ├── index.html
@@ -56,6 +57,7 @@ spotify-web-player-ui/
 │ ├── player icons
 │
 └── README.md
+```
 
 ## CSS Concepts Implemented
 
@@ -77,4 +79,4 @@ spotify-web-player-ui/
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jignakalsariya/CSS-Project.git
