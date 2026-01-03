@@ -47,15 +47,13 @@ The emphasis is on:
 
 ```
 spotify-web-player-ui/
-│
-├── index.html
-├── style.css
-├── assets/
+├──assets/
 │ ├── logo.png
 │ ├── library_icon.png
 │ ├── card images
 │ ├── player icons
-│
+├── index.html
+├── style.css
 └── README.md
 ```
 
